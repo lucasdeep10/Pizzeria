@@ -6,7 +6,10 @@
 
 /*body{
     font-family: 'Roboto', sans-serif;
-}*/
+}*/ 
+.zindex {
+    z-index: 100;
+}
 img {
     width: 100%;
     margin-bottom: 10px;
